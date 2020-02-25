@@ -1,0 +1,14 @@
+com\amazonaws\lambda\helloworld\TestContext$TestLogger.class
+com\amazonaws\lambda\helloworld\LambdaFunctionHandlerTest.class
+com\amazonaws\lambda\helloworld\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\amazonaws\lambda\helloworld\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\amazonaws\lambda\helloworld\TestUtils.class
+com\amazonaws\lambda\helloworld\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\amazonaws\lambda\helloworld\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\amazonaws\lambda\helloworld\TestContext$1.class
+com\amazonaws\lambda\helloworld\TestUtils$DynamodbEventMixin.class
+com\amazonaws\lambda\helloworld\TestUtils$1.class
+com\amazonaws\lambda\helloworld\TestUtils$DateTimeDeserializer.class
+com\amazonaws\lambda\helloworld\TestUtils$DateTimeSerializer.class
+com\amazonaws\lambda\helloworld\TestContext.class
+com\amazonaws\lambda\helloworld\TestUtils$TestJacksonMapperModule.class
